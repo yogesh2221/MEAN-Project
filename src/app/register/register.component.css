@@ -1,0 +1,30 @@
+#headerRow{
+    height: 75px;
+    display: flex;
+    justify-content: space-between;
+}
+#leftHeader{
+    display: flex;
+    align-items: center;
+    height: 65px;
+}
+#rightHeader{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+#footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#RegisterForm{
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
